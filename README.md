@@ -26,7 +26,7 @@ Siempre sentí admiración por la tecnología y su capacidad transformadora, as�
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="35%">
+</td><td valign="top" width="50%">
 
 ### Backend
 
@@ -39,21 +39,19 @@ Siempre sentí admiración por la tecnología y su capacidad transformadora, as�
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="15%">
-
 </td></tr></table>
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
 ### Communication & Organization
 
 <div align="center">  
-<a href="https://slack.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" height="42px"></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="42px"></a>
-<a href="https://trello.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="42px"></a>
+<a href="https://slack.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" height="50px"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="50px"></a>
+<a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="50px"></a>
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="40%">
 
 ### DevOps
 
