@@ -2,7 +2,7 @@
 
 ## &nbsp; Acerca de mí &nbsp; ⁀➷
 
-<img align="right" alt="GIF" src="/assets/3.gif" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="/assets/banner.gif" width="300px" height="300px"/>
 <br>
 
 Siempre sentí admiración por la tecnología y su capacidad transformadora, así se originó mi interés por la programación la cual se refleja en mi continua dedicación para mejorar mis habilidades en diversos lenguajes y marcos de trabajo. Como programadora entusiasta en el ámbito de IT, demuestro responsabilidad y habilidades para trabajar en equipo a través de proyectos que reflejan mi compromiso con cada línea de código. Mi experiencia en las ciencias económicas aporta una perspectiva versátil para abordar desafíos, y estoy emocionada por seguir creciendo y enfrentar nuevos proyectos tecnológicos, siempre abierta a colaboraciones y aprendizaje en equipo.
@@ -70,7 +70,7 @@ Siempre sentí admiración por la tecnología y su capacidad transformadora, as�
 ## Connect with me
 
 <div align="center">
-<a href="https://github.com/https://github.com/luvihu" target="_blank">
+<a href="https://github.com/luvihu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/lucyvillogas" target="_blank">
