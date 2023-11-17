@@ -2,7 +2,7 @@
 
 ## &nbsp; Acerca de mí &nbsp; ⁀➷
 
-<img align="right" alt="GIF" src="/assets/banner.gif" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="/assets/banner.gif" width="300px" height="250px" style="vertical-align: middle"/>
 <br>
 
 Siempre sentí admiración por la tecnología y su capacidad transformadora, así se originó mi interés por la programación la cual se refleja en mi continua dedicación para mejorar mis habilidades en diversos lenguajes y marcos de trabajo. Como programadora entusiasta en el ámbito de IT, demuestro responsabilidad y habilidades para trabajar en equipo a través de proyectos que reflejan mi compromiso con cada línea de código. Mi experiencia en las ciencias económicas aporta una perspectiva versátil para abordar desafíos, y estoy emocionada por seguir creciendo y enfrentar nuevos proyectos tecnológicos, siempre abierta a colaboraciones y aprendizaje en equipo.
