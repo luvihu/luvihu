@@ -2,7 +2,7 @@
 
 ## &nbsp; Acerca de mí &nbsp; ⁀➷
 
-<img align="right" alt="GIF" src="/assets/techstack.gif" width="300px" height="230px" style="vertical-align: middle"/>
+<img align="right" alt="GIF" src="/assets/techstack.gif" width="300px" height="230px" style="border-radius: 5px"/>
 <br>
 
 Siempre sentí admiración por la tecnología y su capacidad transformadora, así se originó mi interés por la programación la cual se refleja en mi continua dedicación para mejorar mis habilidades en diversos lenguajes y marcos de trabajo. Como programadora entusiasta en el ámbito de IT, demuestro responsabilidad y habilidades para trabajar en equipo a través de proyectos que reflejan mi compromiso con cada línea de código. Mi experiencia en las ciencias económicas aporta una perspectiva versátil para abordar desafíos, y estoy emocionada por seguir creciendo y enfrentar nuevos proyectos tecnológicos, siempre abierta a colaboraciones y aprendizaje en equipo.
@@ -46,9 +46,9 @@ Siempre sentí admiración por la tecnología y su capacidad transformadora, as�
 ### Communication & Organization
 
 <div align="center">  
-<a href="https://slack.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" height="50px"></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="50px"></a>
-<a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="50px"></a>
+<a href="https://slack.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" height="50px"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="50px"></a>
+<a href="https://trello.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" height="50px"></a>
 </div>
 
 </td><td valign="top" width="40%">
