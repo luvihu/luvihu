@@ -6,8 +6,8 @@
 <br>
 
 Siempre sentí admiración por la tecnología y su capacidad transformadora, así se originó mi interés por la programación la cual se refleja en mi continua dedicación para mejorar mis habilidades en diversos lenguajes y marcos de trabajo. Como programadora entusiasta en el ámbito de IT, demuestro responsabilidad y habilidades para trabajar en equipo a través de proyectos que reflejan mi compromiso con cada línea de código. Mi experiencia en las ciencias económicas aporta una perspectiva versátil para abordar desafíos, y estoy emocionada por seguir creciendo y enfrentar nuevos proyectos tecnológicos, siempre abierta a colaboraciones y aprendizaje en equipo.
-🌱 &nbsp; Actualmente estoy aprendiendo TypeScript y me interesa aprender Angular en un futuro .
 <br/>
+🌱 &nbsp; Actualmente estoy aprendiendo TypeScript y me interesa aprender Angular en un futuro .
 
 ## My skill set
 
@@ -62,11 +62,11 @@ Siempre sentí admiración por la tecnología y su capacidad transformadora, as�
 
 </td></tr></table>
 
-<br>
+
 
 ## &nbsp; My Portfolio &nbsp;
 
-<br>
+
 
 ## Connect with me
 
