@@ -67,7 +67,7 @@ Siempre sentí admiración por la tecnología y su capacidad transformadora, as�
 
 <div align="center">
  <a href="https://portfolio-lucy.vercel.app" target="_blank">
-<h3>Click here 👩‍💻📒💻</h3></a> 
+Click here 👩‍💻📒💻</a> 
 </div>
 
 ## Connect with me
